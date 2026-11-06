@@ -1,0 +1,1 @@
+{"version":1,"workflows":[{"id":"actualizar_resumen","name":"Actualizar resumen","description":"Consultar las métricas y agrupaciones actuales del inventario","endpoint":"/api/resumen","method":"GET","input":{}}]}

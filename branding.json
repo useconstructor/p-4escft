@@ -1,0 +1,918 @@
+{
+  "tone": "professional",
+  "fontBody": "Source Sans 3",
+  "logoText": "Librería Brisa",
+  "brandbook": {
+    "motif": "El pliego abierto: hoja continua y reglas que unen título, controles y registros. El lomo del símbolo encuentra eco en el separador vertical entre lista y editor; en móvil se convierte en el borde horizontal que conserva identidad, estado y guardado.",
+    "pages": [
+      {
+        "id": "brand-page-1",
+        "title": "Brand guidelines",
+        "layout": "cover",
+        "summary": "Librería ficticia para una demostración funcional de consulta bibliográfica e inventario compartido. Su identidad editorial ayuda a encontrar y mantener libros sin simular una tienda real ni ofrecer compras.",
+        "examples": [
+          {
+            "text": "Catálogo e inventario bibliográfico",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Align the symbol, name and short descriptor to one left edge. Use no book covers, photographs or promotional headline.",
+            "title": "Cover composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-2",
+        "title": "The Brand",
+        "layout": "divider",
+        "summary": "Use a quiet chapter divider on Selección. Introduce the open-spread concept with one heading and one short line, not a manifesto or a promotional panel.",
+        "examples": [
+          {
+            "text": "Texto claro, reglas compartidas y espacio para consultar el inventario.",
+            "title": "Un pliego para encontrar libros"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-3",
+        "title": "Welcome",
+        "layout": "content",
+        "summary": "Public research could not be completed. This guide presents a proposed identity based on the supplied brief.",
+        "examples": [
+          {
+            "text": "Demostración funcional con libros, autores e inventario ficticios",
+            "title": "Required page note"
+          },
+          {
+            "text": "Keep Librería Brisa exactly as supplied. Use the demonstration note once on each app page; do not add real-world business claims.",
+            "title": "Scope"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-4",
+        "title": "Index",
+        "layout": "content",
+        "summary": "Group the guide into six readable sections. Use compact page ranges, aligned numerals and shared rules rather than six decorative cards.",
+        "examples": [
+          {
+            "text": "01–08 Brand · 09–15 Logo · 16–22 Typography and layouts",
+            "title": "Identity and foundations"
+          },
+          {
+            "text": "23–25 Colors · 26–29 Graphic language · 30–49 Applications and colophon",
+            "title": "Expression and use"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-5",
+        "title": "Defining",
+        "layout": "content",
+        "summary": "Express a bibliographic catalog and shared inventory workspace, not a storefront. Let navigation, records and editing define the identity before any decorative element.",
+        "examples": [
+          {
+            "text": "Catálogo · Administrar · Resumen",
+            "title": "Three visible destinations"
+          },
+          {
+            "text": "El faro de papel — Mara Veloria · Novela · Precio pendiente · 6 unidades",
+            "title": "Editorial record"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-6",
+        "title": "Project purpose",
+        "layout": "content",
+        "summary": "Describe the supplied project purpose instead of inventing corporate vision or mission. Frame consultation, editing and inventory reading as three connected tasks.",
+        "examples": [
+          {
+            "text": "Busca libros por título o autor y combina una categoría.",
+            "title": "Consultar"
+          },
+          {
+            "text": "Agrega o edita los cinco campos del libro. Consulta después el resumen del inventario.",
+            "title": "Mantener y revisar"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-7",
+        "title": "Design principles",
+        "layout": "content",
+        "summary": "Translate the brief into observable design principles: continuity, legibility and honest state language. These are project rules, not claims about a real business's values.",
+        "examples": [
+          {
+            "text": "In Administrar libros, keep the selected title, state and Guardar action on the same upper edge.",
+            "title": "Continuity"
+          },
+          {
+            "text": "Use Precio pendiente for an unknown price and Resultado sin confirmar for an uncertain save.",
+            "title": "Honesty"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-8",
+        "title": "Tone of Voice",
+        "layout": "content",
+        "summary": "Write all interface copy in direct Spanish. Name the action or problem, then the next step. Avoid sales language, invented currency and claims of private access.",
+        "examples": [
+          {
+            "text": "La administración es pública y compartida. Los cambios afectan al inventario de esta demostración.",
+            "title": "Public administration notice"
+          },
+          {
+            "text": "No se pudo cargar el catálogo. Reintenta la consulta.",
+            "title": "Recoverable error"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-9",
+        "title": "Logo",
+        "layout": "divider",
+        "summary": "Open the logo chapter on Hoja. Show the complete lockup once at a comfortable reading size; use the open-book silhouette as the visual anchor, not a giant background watermark.",
+        "examples": [
+          {
+            "text": "Un libro abierto, un nombre completo y una composición serena.",
+            "title": "Librería Brisa"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-10",
+        "title": "Logo overview",
+        "layout": "logo",
+        "summary": "The symbol uses mirrored curved pages and a central spine. Pair it with the separately typeset name; the page curves must remain visible at every intended size.",
+        "examples": [
+          {
+            "text": "Place the Tinta book to the left of Librería Brisa on Papel, aligned to the name's visual center.",
+            "title": "Header lockup"
+          },
+          {
+            "text": "Echo the central spine with the desktop divider between the book list and editor.",
+            "title": "Motif connection"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-11",
+        "title": "Primary logo",
+        "layout": "logo",
+        "summary": "Set Librería Brisa in Source Serif 4, 600, upright with natural tracking. Use a 40 px symbol and 16 px gap in a spacious header; scale the lockup together where space is limited.",
+        "examples": [
+          {
+            "text": "Librería Brisa",
+            "title": "Primary signature"
+          },
+          {
+            "text": "Keep the name unbroken above the three visible navigation links. Do not replace it with initials.",
+            "title": "Small-screen signature"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-12",
+        "title": "Logo Safezone",
+        "layout": "logo",
+        "summary": "Keep clear space equal to one quarter of the symbol's canvas width around the complete lockup. Nearby rules, navigation and support-surface edges must respect this zone.",
+        "examples": [
+          {
+            "text": "Reserve at least 10 px outside the Librería Brisa lockup; the internal symbol-to-name gap remains 16 px.",
+            "title": "40 px symbol"
+          },
+          {
+            "text": "Keep Catálogo e inventario bibliográfico below the clear zone, not tucked beneath the book symbol.",
+            "title": "Document cover"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-13",
+        "title": "Color combinations",
+        "layout": "colors",
+        "summary": "Use Tinta for the original symbol on Papel, Hoja or Selección. On a Tinta field, preserve the symbol geometry and color by adding a cream support surface.",
+        "examples": [
+          {
+            "text": "Librería Brisa in #173653 on #F7F2E8; book symbol also in #173653.",
+            "title": "Light application"
+          },
+          {
+            "text": "Use cream name text on #173653 and place the unchanged ink book on a padded #FFFCF6 support surface.",
+            "title": "Dark application"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-14",
+        "title": "Brandmark",
+        "layout": "logo",
+        "summary": "Use the original 160 × 160 open-book geometry as the single symbol source. Its layered pages imply an editorial spread without adding letters, wind lines or a enclosing badge.",
+        "examples": [
+          {
+            "text": "Use the book alone for the app icon; retain Librería Brisa as its accessible application name.",
+            "title": "Standalone use"
+          },
+          {
+            "text": "Derive 16, 32 and 48 px icon assets from the same geometry. Do not create a separate favicon drawing.",
+            "title": "Size family"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-15",
+        "title": "Logo misuse",
+        "layout": "logo",
+        "summary": "Do not stretch, rotate, outline or decorate the symbol. Preserve the accent in Librería and the full business name. Keep the mark separate from interface status indicators.",
+        "examples": [
+          {
+            "text": "Do not shorten the name to Brisa, replace it with LB or set Librería Brisa in decorative italics.",
+            "title": "Incorrect signature"
+          },
+          {
+            "text": "Do not recolor the book in Error red after a failed save or place the ink symbol directly on the ink cover.",
+            "title": "Incorrect treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-16",
+        "title": "Typography",
+        "layout": "divider",
+        "summary": "Introduce the type system with an editorial heading and a practical supporting line. Use Source Serif 4 for identity and titles, Source Sans 3 for interface reading.",
+        "examples": [
+          {
+            "text": "Consulta títulos, autores y categorías sin perder el contexto.",
+            "title": "Libros, en una hoja continua"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-17",
+        "title": "Typography overview",
+        "layout": "type",
+        "summary": "Keep the serif/sans division consistent: serif establishes the page and book identity; sans handles actions, fields, states and figures. Avoid a third expressive family.",
+        "examples": [
+          {
+            "text": "Busca por título o autor y filtra por categoría.",
+            "title": "Catálogo"
+          },
+          {
+            "text": "Set Catálogo in Source Serif 4, 600; Buscar por título o autor in Source Sans 3, 400.",
+            "title": "Typeface pairing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-18",
+        "title": "Primary typeface",
+        "layout": "type",
+        "summary": "Use Source Serif 4 for the name and editorial headings, with 32–48 px page titles. Allow long bibliographic titles to wrap naturally rather than reducing them to tiny type.",
+        "examples": [
+          {
+            "text": "Elio Naverán · Poesía · Precio pendiente · 4 unidades",
+            "title": "Jardines del viento quieto"
+          },
+          {
+            "text": "Use upright 600 for Librería Brisa and page headings. Keep essential book titles complete, even when they occupy two lines.",
+            "title": "Title setting"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-19",
+        "title": "Typography",
+        "layout": "type",
+        "summary": "Use serif 600 for the brand and headings; sans 400 for reading, 500 for labels and 600 for actions. Do not apply the renderer's 700 default to the identity. Avoid decorative capitals and italics.",
+        "examples": [
+          {
+            "text": "Revisa título, autor, categoría, precio y stock antes de guardar.",
+            "title": "Guardar cambios"
+          },
+          {
+            "text": "Cambios sin guardar uses sans 600; its explanation uses 400. Keep both upright and in Tinta rather than using italic emphasis.",
+            "title": "Weight and style"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-20",
+        "title": "Supporting type",
+        "layout": "type",
+        "summary": "Use Source Sans 3 at 16 px for controls and body copy, 14 px for secondary information. Supplied font files are available; host both families locally and preserve their licenses.",
+        "examples": [
+          {
+            "text": "Introduce un precio válido para guardar este libro.",
+            "title": "Precio pendiente"
+          },
+          {
+            "text": "Use tabular numerals for 35 and 0,00. If local fonts cannot load, use serif/sans-serif fallbacks; these are not the intended brand typefaces.",
+            "title": "Numerals and fallback"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-21",
+        "title": "Hierarchy",
+        "layout": "type",
+        "summary": "Build hierarchy through size, weight and spacing, not faded text. Use 32–48 px page titles, 22–24 px record titles, 16 px interface text and 14 px notes.",
+        "examples": [
+          {
+            "text": "8 títulos · 35 unidades · Valor conocido: 0,00",
+            "title": "Resumen del inventario"
+          },
+          {
+            "text": "For El faro de papel, lead with the title, follow with Mara Veloria, then group category, price and stock at interface size.",
+            "title": "Reading sequence"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-22",
+        "title": "Layouts",
+        "layout": "applications",
+        "summary": "Use the continuous editorial sheet: header, title, control border, then content. Space in 8/16/24/32/48 px steps. Avoid heroes, repeated cards and oversized metric panels.",
+        "examples": [
+          {
+            "text": "8 títulos · Todas las categorías",
+            "title": "Catálogo"
+          },
+          {
+            "text": "Use two catalog columns at 1440 px and one at 768/390 px. At 390 × 667, budget about 104/64/120 px for header, title and filters.",
+            "title": "Responsive composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-23",
+        "title": "Colors",
+        "layout": "divider",
+        "summary": "Introduce cream and ink as the dominant pairing. Use Selección as a quiet divider field, with a small ink marker linking the chapter heading to its supporting line.",
+        "examples": [
+          {
+            "text": "Una base cálida para leer; un azul firme para orientar.",
+            "title": "Papel y Tinta"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-24",
+        "title": "Colors overview",
+        "layout": "colors",
+        "summary": "Preserve every supplied hex value. Papel and Hoja form the canvas; Selección marks active surfaces. Both text roles use Tinta, distinguished by typography rather than opacity.",
+        "examples": [
+          {
+            "text": "Papel #F7F2E8 · Hoja #FFFCF6 · Selección #DCE8F1 · Tinta #173653 · Tinta secundaria #173653",
+            "title": "Core palette"
+          },
+          {
+            "text": "Error #A42D35 accompanies validation text. Confirmación #286047 accompanies confirmed-save text. Neither state relies on color alone.",
+            "title": "State tokens"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-25",
+        "title": "Using Tints",
+        "layout": "colors",
+        "summary": "Use the supplied Selección as the active tint; do not create pale text by reducing ink opacity. Pair fields with ink borders that reach at least 3:1 against their surface.",
+        "examples": [
+          {
+            "text": "Novela uses a #DCE8F1 surface and #173653 text. Retain the category name and visible selection state.",
+            "title": "Active category"
+          },
+          {
+            "text": "Set 8 títulos con precio pendiente in #173653 at 14 px, not translucent blue.",
+            "title": "Secondary note"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-26",
+        "title": "Graphic Elements",
+        "layout": "divider",
+        "summary": "Build recognition with shared rules, the spine-like separator and the blue route marker. Keep rules aligned to content edges; use 8 px radii only where controls need containment.",
+        "examples": [
+          {
+            "text": "Join Buscar por título o autor and Categoría to the rule above the first bibliographic record.",
+            "title": "Catalog border"
+          },
+          {
+            "text": "Separate list and editor vertically on desktop; turn that relationship into horizontal borders when the editor comes first on mobile.",
+            "title": "Editor spine"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-27",
+        "title": "Icons",
+        "layout": "content",
+        "summary": "Use simple ink interface icons with consistent stroke weight and visible text labels for key actions. Give every interactive target at least 44 px; the brand book is not a generic action icon.",
+        "examples": [
+          {
+            "text": "Pair a magnifier with Buscar por título o autor. Keep the permanent label even when the field is empty.",
+            "title": "Search"
+          },
+          {
+            "text": "Pair an error icon with Introduce un stock entero de 0 a 2147483647; never signal invalid stock with red alone.",
+            "title": "State cue"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-28",
+        "title": "Photography",
+        "layout": "applications",
+        "summary": "Do not use photographs, generated book covers or image placeholders. Bibliographic text, rules and useful whitespace provide the visual rhythm and avoid suggesting real stock imagery.",
+        "examples": [
+          {
+            "text": "Atlas de pequeñas nubes — Nira Solvén · Infantil · Precio pendiente · 8 unidades",
+            "title": "Text-only record"
+          },
+          {
+            "text": "Todavía no hay libros. Agrega el primero desde Administrar. Use text and a route link, not a decorative empty bookshelf.",
+            "title": "Empty composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-29",
+        "title": "Moodboard",
+        "layout": "applications",
+        "summary": "Use a typographic moodboard of cream paper, ink rules, curved page geometry and compact figures. Choose the editorial spread over illustrated shelves or repetitive bibliographic cards.",
+        "examples": [
+          {
+            "text": "Pair Mapas para días lentos with a fine ink rule, a generous cream margin and the compact label Ensayo.",
+            "title": "Editorial texture"
+          },
+          {
+            "text": "Place 8 títulos and 35 unidades on one compact band, followed by category bars rather than oversized metric tiles.",
+            "title": "Spatial rhythm"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-30",
+        "title": "Applications",
+        "layout": "divider",
+        "summary": "Treat the following applications as design studies, not implemented features. Carry the same full name, open-book geometry, editorial grid and honest Spanish into every format.",
+        "examples": [
+          {
+            "text": "Consultar libros. Mantener el inventario. Leer el resumen.",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Print and social formats demonstrate visual consistency only. They add no routes, accounts, shopping or external integrations.",
+            "title": "Study boundaries"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-31",
+        "title": "Social media icons",
+        "layout": "logo",
+        "summary": "Design study: show how the book symbol survives a circular avatar crop without establishing a social account. Center the unchanged mark on Hoja and retain ample padding.",
+        "examples": [
+          {
+            "text": "Catálogo e inventario bibliográfico",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Place the full 160-unit symbol canvas inside the central 75% of the avatar. Do not add initials or compress the name into the icon.",
+            "title": "Avatar crop"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-32",
+        "title": "Social media profiles",
+        "layout": "applications",
+        "summary": "Design study: compose a profile header with the full name, symbol and factual demonstration descriptor. Omit handles, follower counts, contact details and invented outbound links.",
+        "examples": [
+          {
+            "text": "Demostración funcional con libros, autores e inventario ficticios",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Use the name as the largest text, the descriptor beneath it and a single thin rule. Do not add a Comprar button.",
+            "title": "Profile hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-33",
+        "title": "Instagram posts",
+        "layout": "applications",
+        "summary": "Design study: use a text-only square to demonstrate editorial composition, not a live posting program. Set one fictional title prominently with author and category below.",
+        "examples": [
+          {
+            "text": "Lúa Meravia · Cuentos · Libro ficticio del catálogo de Librería Brisa.",
+            "title": "Cartas al bosque azul"
+          },
+          {
+            "text": "Use Papel, ink typography and 48 px outer margins on a 1080 px square. End with a rule and a small Librería Brisa signature.",
+            "title": "Square composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-34",
+        "title": "Posters",
+        "layout": "applications",
+        "summary": "Design study: compose a catalog poster as an enlarged editorial sheet. Lead with a book title or inventory theme; include no event date, address, discount or fabricated quotation.",
+        "examples": [
+          {
+            "text": "Libros ficticios para explorar la consulta y la administración del inventario.",
+            "title": "Ocho títulos, un catálogo"
+          },
+          {
+            "text": "Set Librería Brisa above a shared rule, the headline below and the demonstration descriptor at the foot. Keep broad cream margins.",
+            "title": "Poster structure"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-35",
+        "title": "T shirts and totes",
+        "layout": "applications",
+        "summary": "Design study: apply the lockup to a cream textile field in one ink color. This is a material expression, not a merchandise offer; omit pricing, ordering and promotional badges.",
+        "examples": [
+          {
+            "text": "Un pliego para encontrar libros.",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Center a 180 mm-wide lockup on the tote. Keep the symbol and name separate, with the established proportions and clear space.",
+            "title": "Print placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-36",
+        "title": "Document sleeves",
+        "layout": "applications",
+        "summary": "Design study: adapt packaging to a sleeve for printed catalog sheets, not takeaway goods. Use an ink signature, one shared rule and a small content label on a cream surface.",
+        "examples": [
+          {
+            "text": "Librería Brisa · Libros y autores ficticios",
+            "title": "Catálogo bibliográfico"
+          },
+          {
+            "text": "Align the lockup and Catálogo bibliográfico to the same left margin. Leave the lower half quiet; add no delivery or purchase details.",
+            "title": "Sleeve face"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-37",
+        "title": "Inventory workspace",
+        "layout": "applications",
+        "summary": "Design study: replace pickup signage with a task-orientation panel for the inventory workspace. Point to the actual administration route without suggesting a physical location.",
+        "examples": [
+          {
+            "text": "Agrega un libro o selecciona uno de la lista para editarlo.",
+            "title": "Administrar libros"
+          },
+          {
+            "text": "Place Administración pública y compartida beneath the heading. Use the book-list/editor separator instead of a map or pickup instruction.",
+            "title": "Workspace orientation"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-38",
+        "title": "Inventory controls",
+        "layout": "applications",
+        "summary": "Design study: keep controls in the sheet border with visible focus and 44 px targets. Combine title/author search with category. Guardar remains activatable for validation unless sending or reconciling.",
+        "examples": [
+          {
+            "text": "Todas las categorías · Limpiar filtros",
+            "title": "Buscar por título o autor"
+          },
+          {
+            "text": "Guardar changes no confirmed data until valid. Preserve typed input, link the error summary to fields and keep Reintentar beside the reading error.",
+            "title": "Validation and recovery"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-39",
+        "title": "Save confirmation",
+        "layout": "applications",
+        "summary": "Design study: replace a receipt with an in-flow save state at the editor's top edge. Show success only after database confirmation; never create an order number, receipt panel or purchase summary.",
+        "examples": [
+          {
+            "text": "El faro de papel · Los campos muestran los valores confirmados.",
+            "title": "Libro guardado en la base de datos"
+          },
+          {
+            "text": "Resultado sin confirmar · Recuperar envío. Retain the original pending submission; do not label a fresh creation as a safe retry.",
+            "title": "Uncertain result"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-40",
+        "title": "Inventory reference card",
+        "layout": "applications",
+        "summary": "Design study: replace a rewards card with a compact field reference. Use five aligned labels and a quiet rule; include no membership, points, stamps or account identifier.",
+        "examples": [
+          {
+            "text": "Título · Autor · Categoría · Precio · Stock",
+            "title": "Los cinco campos del libro"
+          },
+          {
+            "text": "Precio: obligatorio al guardar, no negativo y con hasta dos decimales. Stock: entero de 0 a 2147483647.",
+            "title": "Reference reverse"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-41",
+        "title": "Workspace sign",
+        "layout": "applications",
+        "summary": "Design study: use the lockup as a workspace identification panel, not evidence of a physical shop. Keep a cream support behind the ink symbol on dark fields; add no address or opening hours.",
+        "examples": [
+          {
+            "text": "Catálogo · Administración · Resumen del inventario",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Set the name on one line with the descriptor beneath. Keep all directional information typographic; omit location pins and storefront photography.",
+            "title": "Panel composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-42",
+        "title": "Catalog website",
+        "layout": "applications",
+        "summary": "Design study: use exactly /, /administrar and /resumen. Keep all three links visible, mark the current route and return home from the brand. The planned app reads persistent data, not a local-only simulation.",
+        "examples": [
+          {
+            "text": "Demostración funcional con libros, autores e inventario ficticios",
+            "title": "Catálogo"
+          },
+          {
+            "text": "Move the ink marker for 160 ms with the actual route and aria-current; switch instantly with reduced motion. Reloaded pages must read confirmed inventory.",
+            "title": "Connected navigation"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-43",
+        "title": "Favicon",
+        "layout": "logo",
+        "summary": "Design study: derive the favicon and application icon from the same open-book SVG as the header. Use a Hoja support field and the original ink geometry, without wordmark text.",
+        "examples": [
+          {
+            "text": "Consulta libros ficticios por título, autor y categoría.",
+            "title": "Catálogo | Librería Brisa"
+          },
+          {
+            "text": "Pair the same symbol with Administrar libros | Librería Brisa and Resumen del inventario | Librería Brisa. Do not retain a template icon.",
+            "title": "Browser family"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-44",
+        "title": "Stationery",
+        "layout": "applications",
+        "summary": "Design study: build a printable inventory sheet with a small lockup, compact totals and a semantic table. Use ink on cream and show incomplete valuation explicitly; this is not an export-feature claim.",
+        "examples": [
+          {
+            "text": "8 títulos · 35 unidades · Valor conocido: 0,00 · 8 títulos con precio pendiente",
+            "title": "Resumen del inventario"
+          },
+          {
+            "text": "Títulos/unidades: Novela 2/11 · Poesía 1/4 · Infantil 2/8 · Cuentos 1/3 · Ensayo 2/9. All category valuations are incomplete.",
+            "title": "Seed table specimen"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-45",
+        "title": "Project cards",
+        "layout": "applications",
+        "summary": "Design study: adapt business cards to a compact project introduction. Place the full identity on the front and the three tasks on the reverse; invent no person, phone, domain or address.",
+        "examples": [
+          {
+            "text": "Consultar libros y mantener un inventario compartido.",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Catálogo · Administrar · Resumen. Set these as three left-aligned lines separated by ink rules, not as account or contact links.",
+            "title": "Reverse layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-46",
+        "title": "Reading card",
+        "layout": "applications",
+        "summary": "Design study: replace a gift card with a bibliographic reading card. Feature one seeded fictional book and its author; exclude monetary value, redemption codes, barcodes and balances.",
+        "examples": [
+          {
+            "text": "Alma Cendoria · Infantil · Precio pendiente · Sin existencias",
+            "title": "El viaje de la cometa verde"
+          },
+          {
+            "text": "Place the title in serif 600 above the sans author line. Add a small Librería Brisa signature below a shared rule.",
+            "title": "Card hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-47",
+        "title": "Document seal",
+        "layout": "applications",
+        "summary": "Design study: use the open-book symbol as a small document-sleeve seal. Preserve its clear space on Hoja; the seal identifies the project and must not imply certification or a guarantee.",
+        "examples": [
+          {
+            "text": "Catálogo bibliográfico ficticio",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Center the unchanged ink book on a 32 mm cream square. Keep the name separately typeset on the sleeve rather than curving it around the mark.",
+            "title": "Seal treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-48",
+        "title": "In-context help",
+        "layout": "applications",
+        "summary": "Design study: put useful recovery text next to the affected task, not on a new support route. Distinguish no matches, unknown categories, conflicts and uncertain writes; preserve the user's context.",
+        "examples": [
+          {
+            "text": "Prueba otro título o autor, cambia la categoría o selecciona Limpiar filtros.",
+            "title": "No hay coincidencias"
+          },
+          {
+            "text": "Compara el valor anterior, tu borrador y el valor actual. Adopta los datos actuales o confirma explícitamente una sobrescritura.",
+            "title": "Este libro cambió"
+          },
+          {
+            "text": "Los datos visibles están desactualizados. Selecciona Reintentar para consultar el inventario otra vez.",
+            "title": "No se pudo actualizar el resumen"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-49",
+        "title": "Thank you",
+        "layout": "cover",
+        "summary": "Public research could not be completed. This guide presents a proposed identity based on the supplied brief.",
+        "examples": [
+          {
+            "text": "Una hoja continua para consultar, editar y comprender el inventario.",
+            "title": "Librería Brisa"
+          },
+          {
+            "text": "Identity brief and fictional seed: supplied project plan. Typography: supplied Source Serif 4 and Source Sans 3 files. Applications: design studies, not implementation claims.",
+            "title": "Colophon"
+          }
+        ]
+      }
+    ],
+    "voice": "Español editorial, sencillo y práctico. Acciones explícitas, estados honestos y mensajes breves. Una nota de demostración por página; sin reclamos comerciales, moneda inventada ni promesas de privacidad en la administración compartida.",
+    "colors": [
+      {
+        "hex": "#F7F2E8",
+        "name": "Papel",
+        "role": "background"
+      },
+      {
+        "hex": "#FFFCF6",
+        "name": "Hoja",
+        "role": "surface"
+      },
+      {
+        "hex": "#DCE8F1",
+        "name": "Selección",
+        "role": "accent"
+      },
+      {
+        "hex": "#173653",
+        "name": "Tinta",
+        "role": "text"
+      },
+      {
+        "hex": "#173653",
+        "name": "Tinta secundaria",
+        "role": "muted"
+      }
+    ],
+    "origin": "proposed",
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><g fill=\"#173653\"><path d=\"M24 36C43 31 63 36 80 49C97 36 117 31 136 36L136 105C116 100 97 105 80 118C63 105 44 100 24 105ZM32 43L32 96C48 94 64 98 76 106L76 56C63 46 47 41 32 43ZM84 56L84 106C96 98 112 94 128 96L128 43C113 41 97 46 84 56Z\"/><path d=\"M14 49C14 47 16 45 18 45C20 45 22 47 22 49L22 113C42 109 62 114 78 126C80 127 80 130 78 132C77 133 75 133 73 132C58 121 38 117 19 122C16 123 14 121 14 118Z\"/><path d=\"M146 49C146 47 144 45 142 45C140 45 138 47 138 49L138 113C118 109 98 114 82 126C80 127 80 130 82 132C83 133 85 133 87 132C102 121 122 117 141 122C144 123 146 121 146 118Z\"/><path d=\"M42 58C51 58 61 61 68 66L68 72C60 67 51 64 42 64Z\"/><path d=\"M118 58C109 58 99 61 92 66L92 72C100 67 109 64 118 64Z\"/></g></svg>",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;500;600;700&display=swap",
+      "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap"
+    ],
+    "version": 1,
+    "fontFaces": [
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "400",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjiiVqrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "500",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjisltrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "600",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourceserif4/v15/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjivBtrhw.ttf",
+        "family": "Source Serif 4",
+        "weight": "700",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf",
+        "family": "Source Sans 3",
+        "weight": "400",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf",
+        "family": "Source Sans 3",
+        "weight": "500",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf",
+        "family": "Source Sans 3",
+        "weight": "600",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf",
+        "family": "Source Sans 3",
+        "weight": "700",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      }
+    ],
+    "positioning": "Librería ficticia para una demostración funcional de consulta bibliográfica e inventario compartido. Su identidad editorial ayuda a encontrar y mantener libros sin simular una tienda real ni ofrecer compras.",
+    "researchStatus": "unavailable",
+    "tokenSemanticsVersion": 1
+  },
+  "textColor": "#173653",
+  "accentColor": "#DCE8F1",
+  "fontHeading": "Source Serif 4",
+  "borderRadius": "0.5rem",
+  "logoImageUrl": null,
+  "primaryColor": "#DCE8F1",
+  "secondaryColor": "#FFFCF6",
+  "backgroundColor": "#F7F2E8"
+}

@@ -1,0 +1,88 @@
+@reference "../../app/globals.css";
+
+@layer components {
+  .summary-metrics {
+    @apply mt-8 grid grid-cols-3 border-y py-6 tabular-nums;
+    border-color: var(--brand-text);
+  }
+  .summary-metrics > div { @apply min-w-0 border-r px-8; }
+  .summary-metrics > div:first-child { @apply pl-0; }
+  .summary-metrics > div:last-child { @apply border-r-0 pr-0; }
+  .summary-metrics dt { @apply font-medium; }
+  .summary-metrics dd { @apply mt-2 font-sans text-[40px] font-semibold; overflow-wrap: anywhere; }
+  .summary-metrics p { @apply mt-2 text-sm; }
+
+  .category-chart { @apply mt-8; }
+  .category-chart .section-heading { @apply flex flex-wrap items-baseline justify-between gap-2; }
+  .category-chart .section-heading p { @apply text-sm; }
+  .category-detail-link { @apply mt-2 inline-flex items-center py-2 font-semibold underline; min-height: 44px; }
+  .category-bars { @apply mt-4 border-t; }
+  .category-bar {
+    @apply grid min-w-0 items-center gap-x-5 border-b py-2;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr) minmax(6.5rem, 0.3fr);
+  }
+  .bar-caption { display: contents; }
+  .bar-caption > span {
+    @apply col-start-1 row-start-1 min-w-0 font-medium;
+    overflow-wrap: anywhere;
+  }
+  .bar-caption strong {
+    @apply col-start-3 row-start-1 min-w-0 text-right tabular-nums;
+    overflow-wrap: anywhere;
+  }
+  .bar-caption strong span { @apply text-sm font-normal; }
+  .category-bar .chart-container { @apply col-start-2 row-start-1 h-6 min-w-0; }
+
+  .category-table-section { @apply mt-8; }
+  .category-table-section h2 { scroll-margin-top: 24px; }
+  .category-table {
+    @apply mt-4 w-full border-collapse text-left tabular-nums;
+    table-layout: fixed;
+  }
+  .category-table th,.category-table td {
+    @apply border-b px-3 py-3 align-top;
+    overflow-wrap: anywhere;
+  }
+  .category-table th { @apply font-semibold; }
+  .category-table th:first-child { @apply pl-0; width: 46%; }
+  .category-table th:nth-child(2) { width: 12%; }
+  .category-table th:nth-child(3) { width: 14%; }
+  .category-table th:not(:first-child),.category-table td { @apply text-right; }
+  .category-table th:last-child,.category-table td:last-child { @apply pr-0; }
+  .category-table thead { @apply border-b; border-color: var(--brand-text); }
+  .category-table small { @apply mt-1 block text-sm; }
+  .category-table tfoot { @apply bg-accent; }
+  .category-table tfoot th:first-child { @apply pl-3; }
+  .summary-updated { @apply mt-6 text-sm; }
+  .summary-placeholder { @apply mt-8 grid min-h-96 grid-cols-3 gap-8 border-y py-8; }
+  .summary-placeholder > div { @apply h-24 bg-card; }
+}
+
+@media (max-width: 639px) {
+  .summary-page .page-heading { @apply flex-wrap; }
+  .summary-metrics { @apply mt-6 grid-cols-1 py-0; }
+  .summary-metrics > div { @apply grid grid-cols-2 items-baseline gap-x-4 border-r-0 border-b px-0 py-4; }
+  .summary-metrics > div:last-child { @apply border-b-0; }
+  .summary-metrics dd { @apply mt-0 text-right text-[32px]; }
+  .summary-metrics p { @apply col-span-2 text-right; }
+  .category-bar { @apply grid-cols-1 gap-y-1 py-3; }
+  .bar-caption { @apply flex items-baseline justify-between gap-4; }
+  .bar-caption > span { @apply min-w-0; }
+  .bar-caption strong { @apply shrink-0; max-width: 40%; }
+  .category-bar .chart-container { @apply col-start-1 row-start-2 h-5; }
+
+  .category-table { @apply block border-t text-base; border-color: var(--brand-text); }
+  .category-table thead { @apply sr-only; }
+  .category-table tbody,.category-table tfoot { @apply block; }
+  .category-table tr {
+    @apply grid gap-x-4 gap-y-2 border-b py-3;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.4fr);
+  }
+  .category-table th,.category-table td { @apply min-w-0 border-0 p-0; }
+  .category-table th:first-child { @apply col-span-3 w-auto text-left; }
+  .category-table td::before {
+    @apply mb-1 block text-sm font-normal;
+    content: attr(data-label);
+  }
+  .category-table tfoot th:first-child,.category-table tfoot td:last-child { @apply p-0; }
+}
