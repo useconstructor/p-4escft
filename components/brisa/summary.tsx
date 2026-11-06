@@ -19,7 +19,7 @@ const CategoryBar = memo(function CategoryBar({ category, units, maxUnits, ready
 }) {
   return <div className="category-bar">
     <div className="bar-caption"><span>{category}</span><strong>{integer(units)} <span>unidades</span></strong></div>
-    {ready ? <ChartContainer config={unitsChartConfig} aria-hidden="true">
+    {ready ? <ChartContainer className="chart-container aspect-auto" config={unitsChartConfig} aria-hidden="true">
       <BarChart layout="vertical" data={[{ units: Number(BigInt(units) * BigInt(1000000) / maxUnits) / 10000 }]} margin={{ top: 0, right: 0, bottom: 0, left: 0 }}>
         <XAxis type="number" domain={[0, 100]} hide />
         <YAxis type="category" hide />
