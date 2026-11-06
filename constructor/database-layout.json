@@ -1,4 +1,25 @@
 {
   "version": 1,
-  "positions": {}
+  "positions": {
+    "books": {
+      "x": 68.13333333333333,
+      "y": 51.33333333333333
+    },
+    "categories": {
+      "x": 440,
+      "y": 0
+    },
+    "operations": {
+      "x": 880,
+      "y": 0
+    },
+    "schema_migrations": {
+      "x": 0,
+      "y": 476
+    },
+    "seed_markers": {
+      "x": 440,
+      "y": 476
+    }
+  }
 }
